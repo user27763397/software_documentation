@@ -1,0 +1,7 @@
+{
+    "output_target": "kafka",
+    "kafka": {
+        "bootstrap_servers": "localhost:9092",
+        "topic": "songs_data"
+    }
+}
